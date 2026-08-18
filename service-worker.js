@@ -1,4 +1,4 @@
-const CACHE_NAME = 'druglibrary-v4';
+const CACHE_NAME = 'druglibrary-v6';
 const CORE_ASSETS = [
   './',
   './index.html',
